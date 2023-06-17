@@ -1,6 +1,6 @@
 ---
 title: Videotest
-date: 2023-06-17 10:00:00
+date: 2023-06-17
 categories: [Новости]
 tags: [News]     # TAG names should always be lowercase
 ---
